@@ -30,5 +30,9 @@ Foggy-DOTA mix the thin-fog and thick-fog sets. Choose your favorite mix.
 * Test: [Thin](https://drive.google.com/file/d/1-NWaDWkZIJlDHwSdQvuCoMiVPzX1m2Pn/view?usp=share_link) [Thick](https://drive.google.com/file/d/1NitesYDXuFxCp6oJtUI1nrVCXWUkJuOg/view?usp=share_link)
 
 <p>
+    <img src="Visualization-Detection/vis-table.png" alt="Detection results" style="height: 100%; width: 100%;">
+</p>
+
+<p>
     <img src="Visualization-Detection/vis-detection.png" alt="Sample Image Visualization Dataset" style="height: 100%; width: 100%;">
 </p>
