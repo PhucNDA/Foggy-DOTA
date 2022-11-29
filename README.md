@@ -28,6 +28,7 @@ Foggy-DOTA mix the thin-fog and thick-fog sets. Choose your favorite mix.
 * Train: [Thin](https://drive.google.com/file/d/1-QJXAfYm4-iQfGWNix0tJsew-TNnY7VA/view?usp=sharing) [Thick](https://drive.google.com/file/d/17JP2WFE6RnQUEF5WrD8LSC_Pw1N-AwKR/view?usp=share_link)
 * Validate: [Thin](https://drive.google.com/file/d/1-G_YlzNwxb3eR1yIv8_I2RupM-HzWPsB/view?usp=share_link) [Thick](https://drive.google.com/file/d/1-27KeQDTFpc0_PTQxeOKzunTMbuC4WC-/view?usp=share_link)
 * Test: [Thin](https://drive.google.com/file/d/1-NWaDWkZIJlDHwSdQvuCoMiVPzX1m2Pn/view?usp=share_link) [Thick](https://drive.google.com/file/d/1NitesYDXuFxCp6oJtUI1nrVCXWUkJuOg/view?usp=share_link)
+* 
 Or contact us: phucnda@gmail.com
 
 <p>
