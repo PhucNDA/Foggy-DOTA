@@ -10,7 +10,7 @@ Presenter: [Phuc Nguyen Duc Anh](https://github.com/PhucNDA)
 
 Materials: [Slide](Foggy-DOTA-NICS.pdf)
 
-Paper: not yet published
+Paper: [Paper](https://ieeexplore.ieee.org/document/10013441)
 # Introduction
 Nowadays, object detection in aerial images in adverse weather, especially in foggy scenes becoming very challenging and incredibly practical. Furthermore, fog and clouds usually appear in the majority of aerial images captured via drones everywhere on Earth, especially in the early morning. Understanding the need for qualified deep learning approaches, we propose a Foggy-DOTA dataset inheriting from the original DOTA dataset and then empirically evaluate it on multiple State-of-the-art methods. After having conducted lots of experiments on some well-known baselines,  ReDet is the highest method achieving 76.680 mAP on the original DOTA, only 74.194 mAP on our Foggy-DOTA dataset (60.706 mAP if trained on DOTA). On the other hand, S2ANet and RoI Transformer achieve 74.190, 76,09 mAP on the original DOTA, only yield 71.629 and 73.381 mAP on our Foggy-DOTA dataset (46.503 and 40.297 mAP - significantly low if trained on DOTA), respectively. Our work provides comprehensive statistical evaluation being an essential baseline for future object detection research.
 
